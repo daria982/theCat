@@ -1,2 +1,2 @@
 # theCat
-Good mornig cat card
+Good morning cat card
