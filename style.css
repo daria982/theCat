@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    justify-content::center;
+    grid-column: 2/3;
+
+    
+}
+
+.text-all{
+    background-color: palevioletred;
+    text-align: center;
+    border-radius:20px;
+}
+
+.text{
+    color: black;
+    font-size: 30px;
+}
+
+.img{
+    margin-top: 2%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+
+.container-img{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+  
+
